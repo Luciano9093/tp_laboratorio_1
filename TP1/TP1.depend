@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1599924966 source:c:\users\luciano\onedrive\escritorio\utn\trabajos\tps\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1599925332 c:\users\luciano\onedrive\escritorio\utn\trabajos\tps\tp1\tp1\utn.h
+
+1599920771 source:c:\users\luciano\onedrive\escritorio\utn\trabajos\tps\tp1\tp1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1599925317 source:c:\users\luciano\onedrive\escritorio\workspace\tp_laboratorio_1\tp1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1599925332 c:\users\luciano\onedrive\escritorio\workspace\tp_laboratorio_1\tp1\utn.h
+
