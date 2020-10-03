@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601467448 source:c:\users\luciano\onedrive\escritorio\workspace\tp_laboratorio_1\tp2\estructuraanidada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
